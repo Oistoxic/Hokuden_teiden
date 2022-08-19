@@ -1,3 +1,0 @@
-[<div class="bg_box opt_blue mb_20 font_bold">
-<p>現在、停電は発生しておりません。</p>
-</div>]
