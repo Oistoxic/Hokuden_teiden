@@ -242,12 +242,12 @@ def detect_updates():
 
 def send_mail(props):
     sendAddress = 'dge8g1210@gmail.com'
-    password = 'phnjiganpajeiaxi'
+    password = 'qxptqcrvxnwyqihk'
 
-    subject = '停電発生テスト２'
+    subject = '{0}'.format(props)
     bodyText = props
     fromAddress = 'dge8g1210@gmail.com'
-    toAddress = 'dge8g1210@gmail.com'
+    toAddress = 'csc_hkd01@ifmservice.jp'
 
     # SMTPサーバに接続
     smtpobj = smtplib.SMTP('smtp.gmail.com', 587)

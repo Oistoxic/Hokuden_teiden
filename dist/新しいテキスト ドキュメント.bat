@@ -1,0 +1,2 @@
+call detect_updates.exe
+pause
